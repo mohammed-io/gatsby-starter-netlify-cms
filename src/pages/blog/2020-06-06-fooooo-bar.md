@@ -14,6 +14,7 @@ tags:
 ---
 Fooobar
 
+<h1>Hello</h1>
 
 
 Testing the CMS
